@@ -3,13 +3,15 @@
 
 “I am [Pol Bosch](https://www.linkedin.com/in/pol-bosch-27b507140/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
-## Index
+# Index
 
 ---
 
 # Introduction
 
-At some point Game Developers will need to ask for a license, will have a contract in their hands, will want to create their own studio or protect their own intellectual properties. I'll try to clarify and give some education about legal issues we may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game Development.
+At some point Game Developers will need to ask for a license, will have a contract in their hands, will want to create their own studio, protect their own intellectual properties, etc. I'll try to clarify and give some education about legal issues we may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game Development.
+
+Companies and why are they useful will be our first topic. Following we'll have some IP
 
 ### Markdown
 
