@@ -63,16 +63,17 @@ Companies and why are they useful will be our first topic. The second topic will
 ## Types of Contracts:
 The most common in our industry
 
-### License Agreement: copyright license/trademark license….
-* Between someone that owns a license (licensor) and someone who is authorized to use it (licensee)
+### License Agreement: 
+* Between someone that owns a license (licensor) and someone who is authorized to use it (licensee).
 * They transfer IP rights
 * Having a license of IP rights may permit you develop/create, sell/distribute
 * What to specify:
   * **Definition**
   * **Duration**
   * **Permitted uses**
-### Non Disclosure Agreements (NDAs): or contract of confidentiality.
-* Between someone telling confidential information and someone receiving it
+  
+### Non Disclosure Agreements (NDAs):
+* Between someone telling confidential information and someone receiving it (also named contract of confidentiality)
 * When doing interviews, game pitches or if you happen to work on a confidential project.
 * They are the only way to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
 * What to specify:
@@ -96,7 +97,7 @@ The most common in our industry
 
 ### Development Agreements: 
 * Between a client or funder and the developer (when a studio makes a game for someone else, they get hired)
-* What to specify
+* What to specify:
   * **Ip rights**: they will be for the contractor. You should aim always to not give those rights until they pay you what was accorded. And also reclaim what is called “developer tools” fr example code libraries, engines, that you may want to use for other games in the future. so make sure those right are not given but licensed so they can’t reclaim them or even reverse engineer.
   * **Payment**: clear what, how, when.
 Amount of work: very clear (GDD) what features, how many. And specify what happens if they make you do more than accorded. Change orders should be the way to go so they have to sign 
