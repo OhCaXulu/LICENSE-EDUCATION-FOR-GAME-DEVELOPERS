@@ -21,7 +21,7 @@ Companies and why are they useful will be our first topic. The second topic will
 * A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
 
 * “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” *Chris Reid*
-![Power armor](https://github.com/OhCaXulu/ohcaxulu.github.io/blob/master/Documents/Power%20Armor.png)
+
 * Some "Abilities" of a company (of your highest interest):
 
   * **Intellectual Property container**: it acts like bucket for IP, which is very convenient. That means that the rights of every part of the game and the game itself can be assigned to the company. All the rights are in one place and then can be licenced to other if needed.
@@ -60,13 +60,71 @@ Companies and why are they useful will be our first topic. The second topic will
  
   * Other common clauses in contracts [here](https://www.legalmatch.com/law-library/article/common-clauses-in-a-contract.html).
 
+## Types of Contracts:
+The most common in our industry
 
+### License Agreement: copyright license/trademark license….
+* Between someone that owns a license (licensor) and someone who is authorized to use it (licensee)
+* They transfer IP rights
+* Having a license of IP rights may permit you develop/create, sell/distribute
+* What to specify:
+  * **Definition**
+  * **Duration**
+  * **Permitted uses**
+### Non Disclosure Agreements (NDAs): or contract of confidentiality.
+* Between someone telling confidential information and someone receiving it
+* When doing interviews, game pitches or if you happen to work on a confidential project.
+* They are the only way to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
+* What to specify:
+  * **One way/mutual.**
+  * **Definition of “confidential”** (What is what extent)
+  * **Permitted uses**:
+  * **Duration**
+  * **Obligations**
+  * **They can say “No”**
 
-  
-  
+### Work for Hire Agreements: 
+* Between developer and contractor.
+* This agreement is what gives the IP rights to the hiring company/studio.
+* Very important to be clear so there no disasters.
+* What to specify:
+  * **Ip rights are from contractor.** (them can be licensed if contracted wants them, portfolio)
+  * **Payments**: How? Rev share(SPECIFY IT AS DEEP AS POSSIBLE, steam cut, publisher cut, multiplatform, sequel/dlcs)
+  * **Amount of Work**: the quantity/scope of work, very clear as well.
+  * **Time of performance/Termination**: how long and the right to end the contract and what happens.
+  * **Indemnification/ Warranties**: the promises and what happens if they are not respected.
 
+### Development Agreements: 
+* Between a client or funder and the developer (when a studio makes a game for someone else, they get hired)
+* What to specify
+  * **Ip rights**: they will be for the contractor. You should aim always to not give those rights until they pay you what was accorded. And also reclaim what is called “developer tools” fr example code libraries, engines, that you may want to use for other games in the future. so make sure those right are not given but licensed so they can’t reclaim them or even reverse engineer.
+  * **Payment**: clear what, how, when.
+Amount of work: very clear (GDD) what features, how many. And specify what happens if they make you do more than accorded. Change orders should be the way to go so they have to sign 
+  * **Termination**: be able to get out of a bad deal, to claim what is owed. And also if the client can break the contract for convenience, if you will get a kill fee, or paid until the last milestone so you are not left out on the street without pants.
+  * **Indemnification/Warranties**: often promising that the game will be entirely free of any infringing material, completel of them. Be careful with hidden easter eggs that they not may like.
 
+### Publishing Agreements:
+between a publisher and a developer (publisher funder/publisher helper)
+* You may not need a publisher but you need the agreement want one.
+* What to specify:
+  * **Ip rights**: make sure you are licensing them to sell the game not giving them the rights (the game basically) and that there’s not any trick (if you are late they own it or some shit). And also that there’s details on that license you are giving(how long, how broad geografically, which platforms, and which PRODUCTS,(sequels,dlcs,een merchandising))
+  * **Payment**: again the usual is rev share. make shure is very detailed and that every % is reasoned. And be careful with recoupable expenses (the publisher gets paid first what they invested).
+  * **Obligations**: Publish and promote the game is not enough, dig deeper. (money, marketing plan, time, location how, etc.)
+  * **Termination**: If you are not okay with the work of the publisher you may want to terminate the contract or limit the time or ask for a minimum revenue condition.
 
-
-
+### End User License Agreements (EULAs)
+* Between the developer and the players.
+* Before anyone downloads or plays the game, even for beta.
+* Control you responsibility by Imposing obligations on players.
+* Disclaimers about issues the user may have for example medical(epilepsia/heart attacks), or if you pc gets on fire.
+* Make sure they have to click “Accept” before they can play.
+* What to specify:
+  * **It’s a license agreement**: you are not selling the game only a license to play it some rules.
+  * **Rules** (of conduct): detailing what you don’t want them to do with your game (for example, griefing, hacking, uploading malicious code etc)  
+  * **Ip rights**: make sure you know and they know that the developer owns the game and that they cannot steal your stuff, 
+but maybe you agree that they stream your game on twitch/or do gameplays so that should be detailed too with some rules to avoid using it offensively for example.
+  * **User generated content**: who owns what the player creates inside the game or who has the right to use it later.
+  * **Virtual currency/items**: if you have them specify that those are not real property, they can be deleted if breaking any terms specified.
+  * Age restrictions.
+  * **Limited liability**: for example that if it’s a multiplayer the servers may not be forever online.
 
