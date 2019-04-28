@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/OhCaXulu/ohcaxulu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At some point game developers will need to ask for a license, will have a contract in their hands, will want to create their owns studio or protect their own intellectual properties. I'll try to clarify and educate about legal issues Game Developers may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game development.
 
 ### Markdown
 
