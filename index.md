@@ -186,7 +186,7 @@ Basically involves all aspects of the game.
 ## Copyright: 
 Having a copyright does not mean that it won’t be infringed by other people.
 
-### Enforcing (the case when your copyright is infringed):
+### Enforcing
 * There can be cases of cloning, Cracking/piracy , Copied assets…
 * There can be other cases like Streaming, Let’s PLays, Fan Arts/Fictions. You may be okay with.
 * Copyright lets you choose. Select what is fine and what is not fine, and whenever you decide to. You can specifically enforce.
@@ -198,7 +198,7 @@ Having a copyright does not mean that it won’t be infringed by other people.
   5. DMCA (Digital Millennium Copyright Ban) takedown notice to the host(youtube, steam, play store, etc.
   6. Sue as final and most serious (and expensive) method. 
 
-### Avoid infringing (the case in which you infringe copyright):
+### Avoid infringing
 * Have in mind the exceptions to copyright:
   * Ideas/Mechanics/Genre
   * Generic concepts
@@ -248,13 +248,13 @@ Having a copyright does not mean that it won’t be infringed by other people.
 ---
 
 # Summary: 
-### Copyright protects almost all your content, it’s powerful and gives you selective enforcement rights.
-### Plan, search, register ahead trademarks, and enforce your rights to keep them relevant.
-### Use contracts, don’t cut corners on them and never sign anything you did not read carefully.
-### Rights and contracts don’t enforce themselves.
-### Don’t use other people’s stuff without permission.
-### Privacy should not be overlooked.
-### Consider the help/advice of a lawyer.
+* **Copyright protects almost all your content, it’s powerful and gives you selective enforcement rights.**
+* **Plan, search, register ahead trademarks, and enforce your rights to keep them relevant.**
+* **Use contracts, don’t cut corners on them and never sign anything you did not read carefully.**
+* **Rights and contracts don’t enforce themselves.**
+* **Don’t use other people’s stuff without permission.**
+* **Privacy should not be overlooked.**
+* **Consider the help/advice of a lawyer.**
 
 
 
