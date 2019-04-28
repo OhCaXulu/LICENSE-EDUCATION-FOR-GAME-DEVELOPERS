@@ -105,7 +105,7 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
   * **Indemnification/Warranties**: often promising that the game will be entirely free of any infringing material, completel of them. Be careful with hidden easter eggs that they not may like.
 
 ### Publishing Agreements:
-between a publisher and a developer (publisher funder/publisher helper)
+* Between a publisher and a developer (publisher funder/publisher helper)
 * You may not need a publisher but you need the agreement want one.
 * What to specify:
   * **Ip rights**: make sure you are licensing them to sell the game not giving them the rights (the game basically) and that there’s not any trick (if you are late they own it or some shit). And also that there’s details on that license you are giving(how long, how broad geografically, which platforms, and which PRODUCTS,(sequels,dlcs,een merchandising))
@@ -128,4 +128,54 @@ but maybe you agree that they stream your game on twitch/or do gameplays so that
   * **Virtual currency/items**: if you have them specify that those are not real property, they can be deleted if breaking any terms specified.
   * Age restrictions.
   * **Limited liability**: for example that if it’s a multiplayer the servers may not be forever online.
+
+---
+
+# Intellectual property (IP): 
+Basically involves all aspects of the game.
+## Copyright: 
+* Protection of fixed expression of ideas (code, Art, music, animations, characters, Ui design, Writing etc… and you game as a whole)
+* It does not protect abstract ideas/mechanics , however there’s a type of contract that can be useful for that.
+* Generally if you make something you own it, but having the copyright registered makes a lot easier proving the work is yours. 
+* Contracts may overwrite this general rule (that’s why they are convenient), so anyone contributing into a game must sign some kind of written agreement that the copyright gets assigned to the studio/developer.
+* It gives you exclusive rights:
+  * Reproduction
+  * Communication
+  * Distribution
+  * Rental
+  * Remuneration
+  * Public display
+  * Derivative works
+* Those rights can be licensed to other companies (by contracts as well)
+
+## Trademarks: 
+* Protection of Game/Company names, Logos and Slogans
+* Right to be the only one using your mark or similar for the same goods, video games in this case.
+* Trademark law prioritizes the first to come. (If you are the first you can stop others afterwards)
+* Trademarks rights are received when you sell/distribute (includes free games) the first finished game, not before. So having social media accounts, Webs, good funded kickstarter, articles talking about you/your game or successful beta; doesn’t give you rights.
+* Trademark doesn’t need registration to give you rights, although registering it upgrades them. Those rights lasts 10 years in europe.
+* There can be a pre-registration to avoid problems (for example a game with the same name is published a day before yours). Not registered until you sell.
+* Be careful with generic or close to generic names.
+* The ™ doesn’t give you anything, works like a signal that you intend to register later.
+
+### Patents:
+* Novel, useful, non-obvious inventions.
+* VERY EXPENSIVE
+* Long application process
+* Hard to enforce.
+* Not relevant for developers (too much money, efford for not enough warranty)
+
+### Trade Secrets:
+* Information that you keep secret and may give you advantage because of it.
+* For example GDD, Marketing strategies, customer/mailing lists etc.
+* How to protect this information:
+* Limit it’s acces
+* Encrypt/secure it
+* Through contacts (NDA’s)
+* Be careful about trade secrets of others that you are not supposed to know.
+
+### Right of Publicity:
+* Commercial use of individual name/likeness right
+* Get permission to use someone’s name.
+* Or parody enough so you can denial (risky)  
 
