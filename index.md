@@ -179,3 +179,50 @@ Basically involves all aspects of the game.
 * Get permission to use someone’s name.
 * Or parody enough so you can denial (risky)  
 
+---
+
+# Infringement: 
+
+## Copyright: 
+Having a copyright does not mean that it won’t be infringed by other people.
+
+### Enforcing (the case when your copyright is infringed):
+* There can be cases of cloning, Cracking/piracy , Copied assets…
+* There can be other cases like Streaming, Let’s PLays, Fan Arts/Fictions. You may be okay with.
+* Copyright lets you choose. Select what is fine and what is not fine, and whenever you decide to. You can specifically enforce.
+* Methods to enforce in order of severity: 
+  1.  Be sure to have the copyright registered at first.
+  2.  Work it out 
+  3.  Offer license 
+  4. Letter to infringer
+  5. DMCA (Digital Millennium Copyright Ban) takedown notice to the host(youtube, steam, play store, etc.
+  6. Sue as final and most serious (and expensive) method. 
+
+### Avoid infringing (the case in which you infringe copyright):
+* Have in mind the exceptions to copyright:
+  * Ideas/Mechanics/Genre
+  * Generic concepts
+  * Public domain
+  * Fair use (careful). That statement can only be relevant when you are already in court (maybe too late) and stating that you did “fair use” is admitting that you infringed right away. Don’t trust any myths about fair use, every case will be different and decided by a judge.
+* Don't use other people stuff.
+
+## Trademark:
+
+### Enforcing:
+* Remember you don’t have be registered to be able to enforce.
+* Methods:
+  1. Control use
+  2. Offer license
+  3. Cease and desist letter (to infringe)
+  4. Takedown request
+  5. Sue
+* The more you enforce, the better the trademark is (like leveling up, doesn't mean that you have to go behind everyones ass looking for infringement). 
+* Not enforcing also has its consequences (you can level down too). 
+
+### Avoid infringement:
+* Google before you use a name.
+* Get permission if you want to reference something with trademark. 
+* Clear disclaimers if you don’t have/asked permission.
+
+
+
