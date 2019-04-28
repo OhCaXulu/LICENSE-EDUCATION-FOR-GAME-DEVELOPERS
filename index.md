@@ -31,6 +31,37 @@ Companies and why are they useful will be our first topic. The second topic will
 * Handle ownership: which part is owned by the members (if there’s more than one) and how to distribute the revenue will have to be specified. Also the type of entity type the company is will hav to be decided (Types [here](https://venturefounders.com/business-entity-types/) and in Spanish [here](http://www.econosublime.com/2018/12/tabla-tipos-empresa-segun-forma-juridica.html). Doing the paperwork so the government can recognise you as a legal entity and paying some fee will enable the company to open a bank account, start doing contacts. Is very important as well to have in paper all the ideas and decisions with a "shareholders agreement/Draft Operating" so everything is nice and clear.
 
 * Seriousness: other companies or businesses will prefer to deal with other companies. 
+
+---
+
+# Contracts
+
+* ”A legal document that states and explains a formal agreement between two different people or groups, or the agreement itself” *Cambridge Dictionary*
+
+* “Acts like a rulebook where people can go and see what the rules are and how it works” *Chris Reid*
+
+* A protection against the worst case and also the best case. Things can go wrong so is good to have everyting written in paper, but also things can go right and is also good to have them. Having a well written contract will prevent any complaints of the contributors to the game. 
+
+* Contracts should be done before doing anything to anyone. 
+
+* Contracts are needed to transfer IP rights (both giving and receiving).
+
+* Contracts don't enforce themselves. Having the "rules" written doesn't mean they are going to be followed so "no fuss, no muss".
+
+* Generic clauses contracts have (before we get in more detail):
+ 
+  * Time of performance: the duration/termination, how long will it last or when it will finish.
+  
+  * Indemnification/Warranties: the promises and what will happen if they are not accomplished.
+ 
+  * Compensation: everything related to money, when, how, how much…
+  
+  * Services/Deliverables: What the contractor gives and what the contracted gives. 
+ 
+  * Other common clauses in contracts [here](https://www.legalmatch.com/law-library/article/common-clauses-in-a-contract.html).
+
+
+
   
   
 
