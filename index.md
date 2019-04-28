@@ -2,7 +2,7 @@
 
 # Introduction
 
-At some point game developers will need to ask for a license, will have a contract in their hands, will want to create their owns studio or protect their own intellectual properties. I'll try to clarify and educate about legal issues Game Developers may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game development.
+At some point Game Developers will need to ask for a license, will have a contract in their hands, will want to create their own studio or protect their own intellectual properties. I'll try to clarify and give some education about legal issues we may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game Development.
 
 ### Markdown
 
