@@ -18,9 +18,9 @@ Companies and why are they useful will be our first topic. The second topic will
 
 *By that meaning a legal corporate entity, not a group of people that call themselves a studio.*
 
-A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
+* A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
 
-“A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” *Chris Reid*
+* “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” *Chris Reid*
 
 
 
