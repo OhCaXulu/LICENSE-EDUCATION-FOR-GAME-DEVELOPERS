@@ -21,7 +21,7 @@ Companies and why are they useful will be our first topic. The second topic will
 * A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
 
 * “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” *Chris Reid*
-
+![Power armor](https://github.com/OhCaXulu/ohcaxulu.github.io/blob/master/Documents/Power%20Armor.png)
 * Some "Abilities" of a company (of your highest interest):
 
   * **Intellectual Property container**: it acts like bucket for IP, which is very convenient. That means that the rights of every part of the game and the game itself can be assigned to the company. All the rights are in one place and then can be licenced to other if needed.
