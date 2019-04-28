@@ -24,13 +24,13 @@ Companies and why are they useful will be our first topic. The second topic will
 
 * Some "Abilities" of a company (of your highest interest):
 
-* Intellectual Property container: it acts like bucket for IP, which is very convenient. That means that the rights of every part of the game and the game itself can be assigned to the company. All the rights are in one place and then can be licenced to other if needed.
+  * Intellectual Property container: it acts like bucket for IP, which is very convenient. That means that the rights of every part of the game and the game itself can be assigned to the company. All the rights are in one place and then can be licenced to other if needed.
  
- * Limited Liability: meaning that the problems that may appear (debts is a good example) will stick to the company and not to the developer/s. It can "tank" the risk for you.
+  * Limited Liability: meaning that the problems that may appear (debts is a good example) will stick to the company and not to the developer/s. It can "tank" the risk for you.
 
-* Handle ownership: which part is owned by the members (if there’s more than one) and how to distribute the revenue will have to be specified. Also the type of entity type the company is will hav to be decided (Types [here](https://venturefounders.com/business-entity-types/) and in Spanish [here](http://www.econosublime.com/2018/12/tabla-tipos-empresa-segun-forma-juridica.html). Doing the paperwork so the government can recognise you as a legal entity and paying some fee will enable the company to open a bank account, start doing contacts. Is very important as well to have in paper all the ideas and decisions with a "shareholders agreement/Draft Operating" so everything is nice and clear.
+  * Handle ownership: which part is owned by the members (if there’s more than one) and how to distribute the revenue will have to be specified. Also the type of entity type the company is will hav to be decided (Types [here](https://venturefounders.com/business-entity-types/) and in Spanish [here](http://www.econosublime.com/2018/12/tabla-tipos-empresa-segun-forma-juridica.html). Doing the paperwork so the government can recognise you as a legal entity and paying some fee will enable the company to open a bank account, start doing contacts. Is very important as well to have in paper all the ideas and decisions with a "shareholders agreement/Draft Operating" so everything is nice and clear.
 
-* Seriousness: other companies or businesses will prefer to deal with other companies. 
+  * Seriousness: other companies or businesses will prefer to deal with other companies. 
 
 ---
 
