@@ -4,6 +4,9 @@
 
 # Index
 * [Introduction](https://ohcaxulu.github.io//#introduction)
+* [Creating a company](https://ohcaxulu.github.io//#creating-a-company)
+* [Contracts](https://ohcaxulu.github.io//#contracts)
+* [Types of Contracts](https://ohcaxulu.github.io//#types-of-contracts)
 
 ---
 
@@ -61,10 +64,10 @@ Companies and why are they useful will be our first topic. The second topic will
  
   * Other common clauses in contracts [here](https://www.legalmatch.com/law-library/article/common-clauses-in-a-contract.html).
 
-# Types of Contracts:
+## Types of Contracts:
 The most common in our industry
 
-## License Agreement: 
+### License Agreement: 
 * Between someone that owns a license (licensor) and someone who is authorized to use it (licensee).
 * They transfer IP rights
 * Having a license of IP rights may permit you develop/create, sell/distribute
@@ -73,7 +76,7 @@ The most common in our industry
   * **Duration**
   * **Permitted uses**
   
-## Non Disclosure Agreements (NDAs):
+### Non Disclosure Agreements (NDAs):
 * Between someone telling confidential information and someone receiving it (also named contract of confidentiality)
 * When doing interviews, game pitches or if you happen to work on a confidential project.
 * They are the only way to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
@@ -85,7 +88,7 @@ The most common in our industry
   * **Obligations**
   * **They can say “No”**
 
-## Work for Hire Agreements: 
+### Work for Hire Agreements: 
 * Between developer and contractor.
 * This agreement is what gives the IP rights to the hiring company/studio.
 * Very important to be clear so there no disasters.
@@ -96,7 +99,7 @@ The most common in our industry
   * **Time of performance/Termination**: how long and the right to end the contract and what happens.
   * **Indemnification/ Warranties**: the promises and what happens if they are not respected.
 
-## Development Agreements: 
+### Development Agreements: 
 * Between a client or funder and the developer (when a studio makes a game for someone else, they get hired)
 * What to specify:
   * **Ip rights**: they will be for the contractor. You should aim always to not give those rights until they pay you what was accorded. And also reclaim what is called “developer tools” fr example code libraries, engines, that you may want to use for other games in the future. so make sure those right are not given but licensed so they can’t reclaim them or even reverse engineer.
@@ -105,7 +108,7 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
   * **Termination**: be able to get out of a bad deal, to claim what is owed. And also if the client can break the contract for convenience, if you will get a kill fee, or paid until the last milestone so you are not left out on the street without pants.
   * **Indemnification/Warranties**: often promising that the game will be entirely free of any infringing material, completel of them. Be careful with hidden easter eggs that they not may like.
 
-## Publishing Agreements:
+### Publishing Agreements:
 * Between a publisher and a developer (publisher funder/publisher helper)
 * You may not need a publisher but you need the agreement want one.
 * What to specify:
@@ -114,7 +117,7 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
   * **Obligations**: Publish and promote the game is not enough, dig deeper. (money, marketing plan, time, location how, etc.)
   * **Termination**: If you are not okay with the work of the publisher you may want to terminate the contract or limit the time or ask for a minimum revenue condition.
 
-## End User License Agreements (EULAs)
+### End User License Agreements (EULAs)
 * Between the developer and the players.
 * Before anyone downloads or plays the game, even for beta.
 * Control you responsibility by Imposing obligations on players.
