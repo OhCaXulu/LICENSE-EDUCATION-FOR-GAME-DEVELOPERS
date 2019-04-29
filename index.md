@@ -247,17 +247,71 @@ Having a copyright does not mean that it won’t be infringed by other people.
 
 ---
 
+# Available licenses:
+Free useful and most relevant (in my opinion) tools: 
+* [GitHub](https://github.com/) (The most obvious and important tool)
+
+### 2D Art:
+* [paint.net](https://www.getpaint.net/index.html)
+* [Inkscape](https://inkscape.org/) (vector graphics) 
+* [TexturePacker](https://www.codeandweb.com/texturepacker)
+* [DragonBones](http://dragonbones.com/en/index.html#.XMcMIegzaUk) (Skeleton Animation, like Spine) 
+* [Krita](https://krita.org/en/) (2D painting with animation support)
+* [Tiled](https://www.mapeditor.org/) (You should already know about that one) 
+* [Gimp](https://www.gimp.org/) (photoshop is better) 
+* [Piskel](https://www.piskelapp.com/) (Personal recomendation for pixelart animation)
+
+### 3D Art:
+* [MagicaVoxel](https://ephtracy.github.io/)(3d modelling with pixels, kinda like minecraft) 
+* [Blender](https://www.blender.org/)
+
+### Sound:
+* [Audacity](https://www.audacityteam.org/)
+
+### Code:
+_Probably a lot more_
+* [Visual Studio](https://visualstudio.microsoft.com) and [Visual Studio Code](https://code.visualstudio.com/)
+* [JetBrains](https://www.jetbrains.com/)
+
+### C++ Libraries:
+_Also probably a lot more_
+* [SDL](https://www.libsdl.org/)
+* [Box2D](http://box2d.org/about/)
+* [SIGIL](http://www.libsigil.com/)
+
+### Engines:
+_Check this [Engines by Language](https://youtu.be/TQyAZiX8oC0) Series of videos_
+* [Unity](https://unity3d.com/unity)
+* [Unreal engine](https://www.unrealengine.com/en-US/) (They ask for a 5% royalty) 
+* [CryEngine](https://www.cryengine.com/)
+* [Lumberyard](https://aws.amazon.com/lumberyard/) (Amazon game engine based on CryEngine) 
+* [Godot](https://godotengine.org/)
+* [MonoGame](http://www.monogame.net/)
+* [Armory](https://armory3d.org/) (Blender Integration) 
+
+### 2D Engines:
+* [Defold](https://www.defold.com/)
+* [Cocos2D](https://cocos2d-x.org/)
+* [Corona](https://coronalabs.com/)
+* [GameSalad](https://gamesalad.com/developers/)
+* [Phaser](http://phaser.io/) (Flash/Adobe Animation Integration) 
+
+### "Anti-code" Engines:
+* [Gamemaker: Studio](https://www.yoyogames.com/gamemaker) (Free version) 
+* [Stencyl](http://www.stencyl.com/)
+* [Construct 2](https://www.scirra.com/construct2)
+* [PlayCanvas 3D](https://playcanvas.com/)
+
+---
+
 # Summary: 
+_Some tips to take away_
 * **Copyright protects almost all your content, it’s powerful and gives you selective enforcement rights.**
 * **Plan, search, register ahead trademarks, and enforce your rights to keep them relevant.**
 * **Use contracts, don’t cut corners on them and never sign anything you did not read carefully.**
 * **Rights and contracts don’t enforce themselves.**
 * **Don’t use other people’s stuff without permission.**
+* **Know what you use**
 * **Privacy should not be overlooked.**
 * **Consider the help/advice of a lawyer.**
-
-
-
-
-
 
