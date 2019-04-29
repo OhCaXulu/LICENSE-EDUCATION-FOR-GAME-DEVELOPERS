@@ -6,7 +6,6 @@
 * [Introduction](https://ohcaxulu.github.io//#introduction)
 * [Creating a company](https://ohcaxulu.github.io//#creating-a-company)
 * [Contracts](https://ohcaxulu.github.io//#contracts)
- * [Types of Contracts](https://ohcaxulu.github.io//#types-of-contracts)
   * [License Agreements](https://ohcaxulu.github.io//#license-agreements)
   * [Non Disclosure Agreements](https://ohcaxulu.github.io//#non-disclosure-agreements)
   * [Work for Hire Agreements](https://ohcaxulu.github.io//#work-for-hire-agreements)
