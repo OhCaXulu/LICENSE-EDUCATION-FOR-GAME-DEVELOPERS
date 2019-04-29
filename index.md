@@ -4,14 +4,44 @@
 
 # Index
 * [Introduction](https://ohcaxulu.github.io//#introduction)
+
 * [Creating a company](https://ohcaxulu.github.io//#creating-a-company)
+
 * [Contracts](https://ohcaxulu.github.io//#contracts)
+
   * [License Agreements](https://ohcaxulu.github.io//#license-agreements)
+  
   * [Non Disclosure Agreements](https://ohcaxulu.github.io//#non-disclosure-agreements)
+  
   * [Work for Hire Agreements](https://ohcaxulu.github.io//#work-for-hire-agreements)
+  
   * [Development Agreements](https://ohcaxulu.github.io//#development-agreements)
+  
   * [Publishing Agreements](https://ohcaxulu.github.io//#publishing-agreements)
+  
   * [End User License Agreements](https://ohcaxulu.github.io//#end-user-license-agreements)
+
+* [Intellectual Property](https://ohcaxulu.github.io//#intellectual-property)
+
+  * [Copyright](https://ohcaxulu.github.io//#copyright)
+  
+  * [Trademark](https://ohcaxulu.github.io//#trademark)
+  
+  * [Patent](https://ohcaxulu.github.io//#patent)
+  
+  * [Trade Secrets](https://ohcaxulu.github.io//#trade-secrets)
+  
+  * [Right of Publicity](https://ohcaxulu.github.io//#right-of-publicity)
+  
+* [Infringement](https://ohcaxulu.github.io//#infringement)
+
+  * [Enforcing Copyright](https://ohcaxulu.github.io//#enforcing-copyright)
+  
+  * [Avoid Infringing Copyright](https://ohcaxulu.github.io//#avoid-infringing-copyright)
+  
+  * [Enforcing Trademark](https://ohcaxulu.github.io//#enforcing-trademark)
+  
+  * [Avoid Infringing Trademark](https://ohcaxulu.github.io//#avoid-infringing-trademark)
   
 
 ---
@@ -160,7 +190,7 @@ _(IP)_ Basically involves all aspects of the game.
   * Derivative works
 * Those rights can be licensed to other companies (by contracts as well)
 
-## Trademarks: 
+## Trademark: 
 * Protection of Game/Company names, Logos and Slogans
 * Right to be the only one using your mark or similar for the same goods, video games in this case.
 * Trademark law prioritizes the first to come. (If you are the first you can stop others afterwards)
@@ -170,7 +200,7 @@ _(IP)_ Basically involves all aspects of the game.
 * Be careful with generic or close to generic names.
 * The ™ doesn’t give you anything, works like a signal that you intend to register later.
 
-## Patents:
+## Patent:
 * Novel, useful, non-obvious inventions.
 * VERY EXPENSIVE
 * Long application process
@@ -195,10 +225,7 @@ _(IP)_ Basically involves all aspects of the game.
 
 # Infringement: 
 
-## Copyright: 
-Having a copyright does not mean that it won’t be infringed by other people.
-
-### Enforcing
+## Enforcing Copyright
 * There can be cases of cloning, Cracking/piracy , Copied assets…
 * There can be other cases like Streaming, Let’s PLays, Fan Arts/Fictions. You may be okay with.
 * Copyright lets you choose. Select what is fine and what is not fine, and whenever you decide to. You can specifically enforce.
@@ -210,7 +237,7 @@ Having a copyright does not mean that it won’t be infringed by other people.
   5. DMCA (Digital Millennium Copyright Ban) takedown notice to the host(youtube, steam, play store, etc.
   6. Sue as final and most serious (and expensive) method. 
 
-### Avoid infringing
+## Avoid infringing Copyright
 * Have in mind the exceptions to copyright:
   * Ideas/Mechanics/Genre
   * Generic concepts
@@ -218,9 +245,7 @@ Having a copyright does not mean that it won’t be infringed by other people.
   * Fair use (careful). That statement can only be relevant when you are already in court (maybe too late) and stating that you did “fair use” is admitting that you infringed right away. Don’t trust any myths about fair use, every case will be different and decided by a judge.
 * Don't use other people stuff.
 
-## Trademark:
-
-### Enforcing:
+# Enforcing Trademark:
 * Remember you don’t have be registered to be able to enforce.
 * Methods:
   1. Control use
@@ -231,7 +256,7 @@ Having a copyright does not mean that it won’t be infringed by other people.
 * The more you enforce, the better the trademark is (like leveling up, doesn't mean that you have to go behind everyones ass looking for infringement). 
 * Not enforcing also has its consequences (you can level down too). 
 
-### Avoid infringement:
+## Avoid infringing Trademark:
 * Google before you use a name.
 * Get permission if you want to reference something with trademark. 
 * Clear disclaimers if you don’t have/asked permission.
