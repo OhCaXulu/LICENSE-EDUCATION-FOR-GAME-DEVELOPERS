@@ -74,7 +74,7 @@ Companies and why are they useful will be our first topic. The second topic will
 ## Types of Contracts:
 The most common in our industry
 
-### License Agreement: 
+### License Agreements: 
 * Between someone that owns a license (licensor) and someone who is authorized to use it (licensee).
 * They transfer IP rights
 * Having a license of IP rights may permit you develop/create, sell/distribute
@@ -83,7 +83,8 @@ The most common in our industry
   * **Duration**
   * **Permitted uses**
   
-### Non Disclosure Agreements (NDAs):
+### Non Disclosure Agreements:
+_(NDAs)_
 * Between someone telling confidential information and someone receiving it (also named contract of confidentiality)
 * When doing interviews, game pitches or if you happen to work on a confidential project.
 * They are the only way to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
@@ -124,7 +125,8 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
   * **Obligations**: Publish and promote the game is not enough, dig deeper. (money, marketing plan, time, location how, etc.)
   * **Termination**: If you are not okay with the work of the publisher you may want to terminate the contract or limit the time or ask for a minimum revenue condition.
 
-### End User License Agreements (EULAs)
+### End User License Agreements:
+_(EULAs)_
 * Between the developer and the players.
 * Before anyone downloads or plays the game, even for beta.
 * Control you responsibility by Imposing obligations on players.
@@ -142,8 +144,8 @@ but maybe you agree that they stream your game on twitch/or do gameplays so that
 
 ---
 
-# Intellectual property (IP): 
-Basically involves all aspects of the game.
+# Intellectual Property: 
+_(IP)_ Basically involves all aspects of the game.
 ## Copyright: 
 * Protection of fixed expression of ideas (code, Art, music, animations, characters, Ui design, Writing etc… and you game as a whole)
 * It does not protect abstract ideas/mechanics , however there’s a type of contract that can be useful for that.
