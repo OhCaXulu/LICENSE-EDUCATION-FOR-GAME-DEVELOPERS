@@ -47,7 +47,7 @@
 
 * [Available Licenses](https://ohcaxulu.github.io/#available-licenses)
 
-* [Bibliography & References](https://ohcaxulu.github.io/#bibliography-&-references)
+* [References & Bibliography](https://ohcaxulu.github.io/#references-&-bibliography)
   
 
 ---
