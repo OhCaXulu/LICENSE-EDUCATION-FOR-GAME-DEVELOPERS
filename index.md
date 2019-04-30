@@ -43,6 +43,12 @@
   
   * [Avoid Infringing Trademark](https://ohcaxulu.github.io/#avoid-infringing-trademark)
   
+* [Privacy Policy](https://ohcaxulu.github.io/#privacy-policy)
+
+* [Available Licenses](https://ohcaxulu.github.io/#available-licenses)
+
+* [Bibliography & References](https://ohcaxulu.github.io/#bibliography-&-references)
+  
 
 ---
 
@@ -370,9 +376,9 @@ _(IP)_ Basically involves all aspects of the game.
 
 ---
 
-# Available licenses
+# Available Licenses
 
-Free useful and most relevant (in my opinion) tools 
+Free useful and most relevant (in my opinion) tools.
 
 * [GitHub](https://github.com/) (The most obvious and important tool)
 
