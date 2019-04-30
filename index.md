@@ -3,45 +3,45 @@
 “I am [Pol Bosch](https://www.linkedin.com/in/pol-bosch-27b507140/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
 # Index
-* [Introduction](https://ohcaxulu.github.io//#introduction)
+* [Introduction](https://ohcaxulu.github.io/#introduction)
 
-* [Creating a company](https://ohcaxulu.github.io//#creating-a-company)
+* [Creating a company](https://ohcaxulu.github.io/#creating-a-company)
 
-* [Contracts](https://ohcaxulu.github.io//#contracts)
+* [Contracts](https://ohcaxulu.github.io/#contracts)
 
-  * [License Agreements](https://ohcaxulu.github.io//#license-agreements)
+  * [License Agreements](https://ohcaxulu.github.io/#license-agreements)
   
-  * [Non Disclosure Agreements](https://ohcaxulu.github.io//#non-disclosure-agreements)
+  * [Non Disclosure Agreements](https://ohcaxulu.github.io/#non-disclosure-agreements)
   
-  * [Work for Hire Agreements](https://ohcaxulu.github.io//#work-for-hire-agreements)
+  * [Work for Hire Agreements](https://ohcaxulu.github.io/#work-for-hire-agreements)
   
-  * [Development Agreements](https://ohcaxulu.github.io//#development-agreements)
+  * [Development Agreements](https://ohcaxulu.github.io/#development-agreements)
   
-  * [Publishing Agreements](https://ohcaxulu.github.io//#publishing-agreements)
+  * [Publishing Agreements](https://ohcaxulu.github.io/#publishing-agreements)
   
-  * [End User License Agreements](https://ohcaxulu.github.io//#end-user-license-agreements)
+  * [End User License Agreements](https://ohcaxulu.github.io/#end-user-license-agreements)
 
-* [Intellectual Property](https://ohcaxulu.github.io//#intellectual-property)
+* [Intellectual Property](https://ohcaxulu.github.io/#intellectual-property)
 
-  * [Copyright](https://ohcaxulu.github.io//#copyright)
+  * [Copyright](https://ohcaxulu.github.io/#copyright)
   
-  * [Trademark](https://ohcaxulu.github.io//#trademark)
+  * [Trademark](https://ohcaxulu.github.io/#trademark)
   
-  * [Patent](https://ohcaxulu.github.io//#patent)
+  * [Patent](https://ohcaxulu.github.io/#patent)
   
-  * [Trade Secrets](https://ohcaxulu.github.io//#trade-secrets)
+  * [Trade Secrets](https://ohcaxulu.github.io/#trade-secrets)
   
-  * [Right of Publicity](https://ohcaxulu.github.io//#right-of-publicity)
+  * [Right of Publicity](https://ohcaxulu.github.io/#right-of-publicity)
   
-* [Infringement](https://ohcaxulu.github.io//#infringement)
+* [Infringement](https://ohcaxulu.github.io/#infringement)
 
-  * [Enforcing Copyright](https://ohcaxulu.github.io//#enforcing-copyright)
+  * [Enforcing Copyright](https://ohcaxulu.github.io/#enforcing-copyright)
   
-  * [Avoid Infringing Copyright](https://ohcaxulu.github.io//#avoid-infringing-copyright)
+  * [Avoid Infringing Copyright](https://ohcaxulu.github.io/#avoid-infringing-copyright)
   
-  * [Enforcing Trademark](https://ohcaxulu.github.io//#enforcing-trademark)
+  * [Enforcing Trademark](https://ohcaxulu.github.io/#enforcing-trademark)
   
-  * [Avoid Infringing Trademark](https://ohcaxulu.github.io//#avoid-infringing-trademark)
+  * [Avoid Infringing Trademark](https://ohcaxulu.github.io/#avoid-infringing-trademark)
   
 
 ---
