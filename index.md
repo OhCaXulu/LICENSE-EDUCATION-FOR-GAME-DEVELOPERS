@@ -50,7 +50,7 @@
 
 At some point Game Developers will need to ask for a license, will have a contract in their hands, will want to create their own studio, protect their own intellectual properties, etc. I'll try to clarify and give some education about legal issues we may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game Development.
 
-Companies and why are they useful will be our first topic. The second topic will introduce the most common contracts in our industry. The third topic will be about Intellectual Property (IP). The fourth topic will teach how to handle infringement on Intellectual Property Rights. The Fifth topic will be on Privacy Policies and why are important. Finally we will have a summary with the most important concepts to take away.
+Companies and why are they useful will be our first topic. The second topic will introduce the most common contracts in our industry. The third topic will be about Intellectual Property (IP). The fourth topic will teach how to handle infringement on Intellectual Property Rights. The Fifth topic will be on Privacy Policies and why are important. The Sixth topic will be a list of Available Licenses (free) useful for Game Developers. Finally we will have a summary with the most important concepts to take away.
 
 ---
 
@@ -60,7 +60,7 @@ Companies and why are they useful will be our first topic. The second topic will
 
 * A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
 
-* “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” *Chris Reid*
+* “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” | *Chris Reid*
 
 * Some "Abilities" of a company (of your highest interest):
 
@@ -76,9 +76,9 @@ Companies and why are they useful will be our first topic. The second topic will
 
 # Contracts
 
-* ”A legal document that states and explains a formal agreement between two different people or groups, or the agreement itself” *Cambridge Dictionary*
+* ”A legal document that states and explains a formal agreement between two different people or groups, or the agreement itself” | *Cambridge Dictionary*
 
-* “Acts like a rulebook where people can go and see what the rules are and how it works” *Chris Reid*
+* “Acts like a rulebook where people can go and see what the rules are and how it works” | *Chris Reid*
 
 * A protection against the worst case and also the best case. Things can go wrong so is good to have everyting written in paper, but also things can go right and is also good to have them. Having a well written contract will prevent any complaints of the contributors to the game. 
 
@@ -104,9 +104,13 @@ Companies and why are they useful will be our first topic. The second topic will
 The most common in our industry
 
 ### License Agreements
-* Between someone that owns a license (licensor) and someone who is authorized to use it (licensee).
-* They transfer IP rights
+
+* **Between** someone that owns a license (**licensor**) and someone who is authorized to use it (**licensee**).
+
+* They **transfer IP rights**
+
 * Having a license of IP rights may permit you develop/create, sell/distribute
+
 * What to specify:
   * **Definition**
   * **Duration**
@@ -114,9 +118,13 @@ The most common in our industry
   
 ### Non Disclosure Agreements
 _(NDAs)_
-* Between someone telling confidential information and someone receiving it (also named contract of confidentiality)
-* When doing interviews, game pitches or if you happen to work on a confidential project.
-* They are the only way to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
+
+* **Between** someone telling confidential information and someone receiving it (also named contract of confidentiality)
+
+* **When** doing interviews, game pitches or if you happen to work on a **confidential** project.
+
+* They are **the only way** to protect what copyright can’t (IDEAS/MECHANICS), or non-public info.
+
 * What to specify:
   * **One way/mutual.**
   * **Definition of “confidential”** (What is what extent)
@@ -126,18 +134,28 @@ _(NDAs)_
   * **They can say “No”**
 
 ### Work for Hire Agreements
-* Between developer and contractor.
-* This agreement is what gives the IP rights to the hiring company/studio.
-* Very important to be clear so there no disasters.
+
+* **Between** **developer** and contracted** (someone about to do something for you).
+
+* This agreement is what **gives the IP rights** to the hiring **company/studio**.
+
+* Very important to **be clear** so there no disasters.
+
 * What to specify:
   * **Ip rights are from contractor.** (them can be licensed if contracted wants them, portfolio)
-  * **Payments**: How? Rev share(SPECIFY IT AS DEEP AS POSSIBLE, steam cut, publisher cut, multiplatform, sequel/dlcs)
+  * **Payments**: How? Rev share (SPECIFY IT AS DEEP AS POSSIBLE, steam cut, publisher cut, multiplatform, sequel/dlcs)
   * **Amount of Work**: the quantity/scope of work, very clear as well.
   * **Time of performance/Termination**: how long and the right to end the contract and what happens.
   * **Indemnification/ Warranties**: the promises and what happens if they are not respected.
 
 ### Development Agreements 
-* Between a client or funder and the developer (when a studio makes a game for someone else, they get hired)
+
+* **Between** a client or **funder** and the **developer** (when a studio makes a game for someone else, they get hired).
+
+* **Ensures payment**.
+
+* **Sets how much work**.
+
 * What to specify:
   * **Ip rights**: they will be for the contractor. You should aim always to not give those rights until they pay you what was accorded. And also reclaim what is called “developer tools” fr example code libraries, engines, that you may want to use for other games in the future. so make sure those right are not given but licensed so they can’t reclaim them or even reverse engineer.
   * **Payment**: clear what, how, when.
@@ -146,8 +164,11 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
   * **Indemnification/Warranties**: often promising that the game will be entirely free of any infringing material, completel of them. Be careful with hidden easter eggs that they not may like.
 
 ### Publishing Agreements
-* Between a publisher and a developer (publisher funder/publisher helper)
-* You may not need a publisher but you need the agreement want one.
+
+* **Between** a **publisher** and a **developer** (publisher funder/publisher hired).
+
+* Although **a publisher might not be needed** the agreement will be needed if it is.
+
 * What to specify:
   * **Ip rights**: make sure you are licensing them to sell the game not giving them the rights (the game basically) and that there’s not any trick (if you are late they own it or some shit). And also that there’s details on that license you are giving(how long, how broad geografically, which platforms, and which PRODUCTS,(sequels,dlcs,een merchandising))
   * **Payment**: again the usual is rev share. make shure is very detailed and that every % is reasoned. And be careful with recoupable expenses (the publisher gets paid first what they invested).
@@ -156,12 +177,19 @@ Amount of work: very clear (GDD) what features, how many. And specify what happe
 
 ### End User License Agreements
 _(EULAs)_
-* Between the developer and the players.
-* Before anyone downloads or plays the game, even for beta.
-* Control you responsibility by Imposing obligations on players.
-* Disclaimers about issues the user may have for example medical(epilepsia/heart attacks), or if you pc gets on fire.
-* “Any rights the publisher licenses to the end user must be appropriately defined as those rights you have previously licensed to the publisher in the publishing agreement.” _Coe, T. (2019). Legal Guide to Video Game Development| Wright Hassall._ 
-* Make sure they have to click “Accept” before they can play.
+
+* **Between** the **developer** and the **players**.
+
+* **Before** anyone downloads or **play** the game, even for beta.
+
+* **Control** our **responsibility** by imposing **obligations on players**.
+
+* Disclaimers about issues the user may have. For example medical(epilepsia/heart attacks), or if the PC gets on fire.
+
+* “Any rights the publisher licenses to the end user must be appropriately defined as those rights you have previously licensed to the publisher in the publishing agreement.” | Coe, T. Wright Hassall.
+
+* **Make sure they have to click “Accept” before they can play.**
+
 * What to specify:
   * **It’s a license agreement**: you are not selling the game only a license to play it some rules.
   * **Rules** (of conduct): detailing what you don’t want them to do with your game (for example, griefing, hacking, uploading malicious code etc)  
@@ -169,124 +197,176 @@ _(EULAs)_
 but maybe you agree that they stream your game on twitch/or do gameplays so that should be detailed too with some rules to avoid using it offensively for example.
   * **User generated content**: who owns what the player creates inside the game or who has the right to use it later.
   * **Virtual currency/items**: if you have them specify that those are not real property, they can be deleted if breaking any terms specified.
-  * Age restrictions.
+  * **Age restrictions**.
   * **Limited liability**: for example that if it’s a multiplayer the servers may not be forever online.
 
 ---
 
 # Intellectual Property:
 _(IP)_ Basically involves all aspects of the game.
+
 ## Copyright: 
-* Protection of fixed expression of ideas (code, Art, music, animations, characters, Ui design, Writing etc… and you game as a whole)
-* It does not protect abstract ideas/mechanics , however there’s a type of contract that can be useful for that.
-* Generally if you make something you own it, but having the copyright registered makes a lot easier proving the work is yours. 
-* Contracts may overwrite this general rule (that’s why they are convenient), so anyone contributing into a game must sign some kind of written agreement that the copyright gets assigned to the studio/developer.
+
+* **Protection** of **fixed expression of ideas** (code, Art, music, animations, characters, Ui design, Writing etc… and you game as a whole).
+
+* It does **not protect abstract ideas/mechanics** , however there’s a type of contract that can be useful for that.
+
+* Generally **if you make something you own it**, but having the copyright registered makes a lot easier/faster proving the work is yours.
+
+* **Contracts may overwrite this general rule** (that’s why they are convenient), so anyone contributing into a game must sign some kind of written agreement that the IP gets transfered/licensed to the studio/developer/entity.
+
 * It gives you exclusive rights:
-  * Reproduction
-  * Communication
-  * Distribution
-  * Rental
-  * Remuneration
-  * Public display
-  * Derivative works
-* Those rights can be licensed to other companies (by contracts as well)
+  * **Reproduction**
+  * **Communication**
+  * **Distribution**
+  * **Rental**
+  * **Remuneration**
+  * **Public display**
+  * **Derivative works**
+  
+* Those rights **can be licensed to other companies** (by contracts as well)
 
 ## Trademark
-* Protection of Game/Company names, Logos and Slogans
-* Right to be the only one using your mark or similar for the same goods, video games in this case.
-* Trademark law prioritizes the first to come. (If you are the first you can stop others afterwards)
-* Trademarks rights are received when you sell/distribute (includes free games) the first finished game, not before. So having social media accounts, Webs, good funded kickstarter, articles talking about you/your game or successful beta; doesn’t give you rights.
-* Trademark doesn’t need registration to give you rights, although registering it upgrades them. Those rights lasts 10 years in europe.
-* There can be a pre-registration to avoid problems (for example a game with the same name is published a day before yours). Not registered until you sell.
+* **Protection** of Game/Company **names, Logos and Slogans**
+
+* Exclusive right to be the **only one using your mark or similar for the same goods**, video games in this case.
+
+* Trademark law **prioritizes the first to come** (If you are the first you can stop others afterwards).
+
+* Trademarks **rights are received when you sell/distribute** (includes free games) the **first copy**, not before. Having social media accounts, Webs, good funded kickstarter, articles talking about you/your game or a successful beta; doesn’t give you rights.
+
+* Trademark **don’t need registration** to give you rights, although **registering it upgrades** them. Those rights lasts 10 years in europe.
+
+* There can be a **pre-registration to avoid problems** (for example a game with the same name is published a day before yours). Not registered until you sell.
+
 * Be careful with generic or close to generic names.
+
 * The ™ doesn’t give you anything, works like a signal that you intend to register later.
 
 ## Patent
+
 * Novel, useful, non-obvious inventions.
-* VERY EXPENSIVE
-* Long application process
-* Hard to enforce.
-* Not relevant for developers (too much money, efford for not enough warranty)
+
+* **VERY EXPENSIVE**
+
+* **Long** application process.
+
+* **Hard** to enforce.
+
+* **Not relevant** for developers (too much money, efford for not enough warranty)
 
 ## Trade Secrets
-* Information that you keep secret and may give you advantage because of it.
+
+* **Information** that you keep **secret** and may give you **advantage** because of it.
+
 * For example GDD, Marketing strategies, customer/mailing lists etc.
+
 * How to protect this information:
-* Limit it’s acces
-* Encrypt/secure it
-* Through contacts (NDA’s)
-* Be careful about trade secrets of others that you are not supposed to know.
+  * **Limit it’s access.**
+  * **Encrypt/secure it.**
+  * **Through contacts.** (NDA’s)
+  * **Be careful about trade secrets of others that you are not supposed to know.**
 
 ## Right of Publicity
-* Commercial use of individual name/likeness right
-* Get permission to use someone’s name.
-* Or parody enough so you can denial (risky)  
+
+* Commercial use of individual name/likeness right (for example using a famous sport star as promototion).
+
+* **Get permission** to use someone’s name.
+
+* Or **parody enough** so you can denial (risky).  
 
 ---
 
 # Infringement
 
 ## Enforcing Copyright
+
 * There can be cases of cloning, Cracking/piracy , Copied assets…
+
 * There can be other cases like Streaming, Let’s PLays, Fan Arts/Fictions. You may be okay with.
+
 * Copyright lets you choose. Select what is fine and what is not fine, and whenever you decide to. You can specifically enforce.
-* Methods to enforce in order of severity: 
-  1.  Be sure to have the copyright registered at first.
-  2.  Work it out 
-  3.  Offer license 
-  4. Letter to infringer
-  5. DMCA (Digital Millennium Copyright Ban) takedown notice to the host(youtube, steam, play store, etc.
-  6. Sue as final and most serious (and expensive) method. 
+
+* Methods to enforce in order of severity:
+
+  1.  **Be sure to have the copyright registered at first.**
+  2.  **Work it out.**
+  3. **Offer license.** 
+  4. **Letter to infringer.**
+  5. **DMCA** (Digital Millennium Copyright Ban) **takedown notice to the host** (youtube, steam, play store, etc.).
+  6. **Sue** as final and most serious (and expensive) method. 
 
 ## Avoid infringing Copyright
-* Have in mind the exceptions to copyright:
-  * Ideas/Mechanics/Genre
-  * Generic concepts
-  * Public domain
-  * Fair use (careful). That statement can only be relevant when you are already in court (maybe too late) and stating that you did “fair use” is admitting that you infringed right away. Don’t trust any myths about fair use, every case will be different and decided by a judge.
-* Don't use other people stuff.
+
+* Have in mind the **exceptions** to copyright:
+  * **Ideas/Mechanics/Genre**
+  * **Generic concepts**
+  * **Public domain**
+  * **Fair use** (careful). That statement can only be relevant when you are already in court (maybe too late) and stating that you did “fair use” is admitting that you infringed right away. Don’t trust any myths about fair use, every case will be different and decided by a judge.
+  
+* **Don't use other people stuff**.
 
 # Enforcing Trademark
+
 * Remember you don’t have be registered to be able to enforce.
+
 * Methods:
-  1. Control use
-  2. Offer license
-  3. Cease and desist letter (to infringe)
-  4. Takedown request
-  5. Sue
-* The more you enforce, the better the trademark is (like leveling up, doesn't mean that you have to go behind everyones ass looking for infringement). 
-* Not enforcing also has its consequences (you can level down too). 
+  1. **Control use.**
+  2. **Offer license.**
+  3. **Cease and desist letter** (to infringer).
+  4. **Takedown request.**
+  5. **Sue.**
+  
+* **The more you enforce, the better** the trademark is (like leveling up, doesn't mean that you have to go behind everyone looking for infringement). 
+
+* **Not enforcing also has its consequences** (you can level down too). 
 
 ## Avoid infringing Trademark
-* Google before you use a name.
-* Get permission if you want to reference something with trademark. 
-* Clear disclaimers if you don’t have/asked permission.
+
+* **Google** before you use a name.
+
+* **Get permission** if you want to reference something with trademark.
+
+* **Clear disclaimers** that you do not own the rights if you don’t have/asked permission (taking the risk).
 
 ---
 
 # Privacy Policy 
-* The data collected inside the game and careful with that. 
-* Government enforce privacy issues
-* Issues/Data breaches can mess your reputation. 
+
+* The **data collected** inside the game (careful with that). 
+
+* **Government enforce privacy issues**.
+
+* Issues/Data breaches can **mess your reputation**.
+
 * You should think of it before launch, at launch and after launch.
+
 * You should have it prior to launch.
-* Collect only the needed data.
-* Have the privacy policy accessible. 
-* Be honest with it.
+
+* Collect **only the needed data**.
+
+* Have the **privacy policy accessible**. 
+
+* Be **honest** with it.
+
 * Don’t copy it from someone else (You will lie to your users).
-* Be compliant to the General Data Protection Regulation (GDPR)
+
+* Be compliant to the **General Data Protection Regulation** (GDPR).
+
 * You should specify: 
-  * Types of data
-  * Why collected.
-  * How used.
-  * When are they shared and with who.
-  * How to access user’s data.
-  * And how is it protected. (Trade secrets?)
+  * **Types of data**.
+  * **Why collected**.
+  * **How used**.
+  * **When are they shared and with who**.
+  * **How to access user’s data**.
+  * **And how is it protected**.
 
 ---
 
 # Available licenses
-Free useful and most relevant (in my opinion) tools: 
+
+Free useful and most relevant (in my opinion) tools 
+
 * [GitHub](https://github.com/) (The most obvious and important tool)
 
 ### 2D Art
@@ -347,9 +427,9 @@ _Some tips to take away_
 * **Copyright protects almost all your content, it’s powerful and gives you selective enforcement rights.**
 * **Plan, search, register ahead trademarks, and enforce your rights to keep them relevant.**
 * **Use contracts, don’t cut corners on them and never sign anything you did not read carefully.**
-* **Rights and contracts don’t enforce themselves.**
 * **Don’t use other people’s stuff without permission.**
 * **Know what you use**
+* **Anything doesn’t enforce itself.**
 
 ---
 
