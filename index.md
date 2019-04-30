@@ -50,7 +50,7 @@
 
 At some point Game Developers will need to ask for a license, will have a contract in their hands, will want to create their own studio, protect their own intellectual properties, etc. I'll try to clarify and give some education about legal issues we may encounter at some point, so we can actually understand a little bit what's going on with the legal side of Game Development.
 
-Companies and why are they useful will be our first topic. The second topic will introduce the most common contracts in our industry. The third topic will be about Intellectual Property (IP). The fourth topic will teach how to handle infringement on Intellectual Property Rights. The Fifth topic will be on Privacy Policies and why are important. The Sixth topic will be a list of Available Licenses (free) useful for Game Developers. Finally we will have a summary with the most important concepts to take away.
+Companies and why are they useful will be our first topic. The second topic will introduce the most common contracts in our industry. The third topic will be about Intellectual Property (IP). The fourth topic will teach how to handle infringement on Intellectual Property Rights. The Fifth topic will be on Privacy Policies and why are important. The Sixth topic will be a list of Available Licenses (free) useful for Game Developers. Finally we will have a summary with the most important concepts to take away. Bibliography and references at the bottom as well.
 
 ---
 
