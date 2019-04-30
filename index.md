@@ -437,11 +437,17 @@ _Check this [Engines by Language](https://youtu.be/TQyAZiX8oC0) Series of videos
 
 # Summary 
 _Some tips to take away_
+
 * **Copyright protects almost all your content, it’s powerful and gives you selective enforcement rights.**
+
 * **Plan, search, register ahead trademarks, and enforce your rights to keep them relevant.**
+
 * **Use contracts, don’t cut corners on them and never sign anything you did not read carefully.**
+
 * **Don’t use other people’s stuff without permission.**
+
 * **Know what you use**
+
 * **Anything doesn’t enforce itself.**
 
 ---
