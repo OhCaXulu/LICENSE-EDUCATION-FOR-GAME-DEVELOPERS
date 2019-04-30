@@ -60,7 +60,7 @@ Companies and why are they useful will be our first topic. The second topic will
 
 * A company should be created before you start working/developing anything. IDEALLY (It’s not like you absolutely have to though…). It could wait until you get serious about a project, you start investing money and/or a lot of time (that’s the most common thing to do) It should not be delayed any further than when you start/want/have to work with others.
 
-* “A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” | *Chris Reid*
+“A company is sort of like the legal equivalent of a suit of power armor, it protects you and gives you cool abilities” | *Chris Reid*
 
 * Some "Abilities" of a company (of your highest interest):
 
@@ -76,9 +76,9 @@ Companies and why are they useful will be our first topic. The second topic will
 
 # Contracts
 
-* ”A legal document that states and explains a formal agreement between two different people or groups, or the agreement itself” | *Cambridge Dictionary*
+”A legal document that states and explains a formal agreement between two different people or groups, or the agreement itself” | *Cambridge Dictionary*
 
-* “Acts like a rulebook where people can go and see what the rules are and how it works” | *Chris Reid*
+“Acts like a rulebook where people can go and see what the rules are and how it works” | *Chris Reid*
 
 * A protection against the worst case and also the best case. Things can go wrong so is good to have everyting written in paper, but also things can go right and is also good to have them. Having a well written contract will prevent any complaints of the contributors to the game. 
 
@@ -186,7 +186,7 @@ _(EULAs)_
 
 * Disclaimers about issues the user may have. For example medical(epilepsia/heart attacks), or if the PC gets on fire.
 
-* “Any rights the publisher licenses to the end user must be appropriately defined as those rights you have previously licensed to the publisher in the publishing agreement.” | Coe, T. Wright Hassall.
+“Any rights the publisher licenses to the end user must be appropriately defined as those rights you have previously licensed to the publisher in the publishing agreement.” | Coe, T. Wright Hassall.
 
 * **Make sure they have to click “Accept” before they can play.**
 
