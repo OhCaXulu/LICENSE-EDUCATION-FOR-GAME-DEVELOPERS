@@ -47,7 +47,7 @@
 
 * [Available Licenses](https://ohcaxulu.github.io/#available-licenses)
 
-* [References & Bibliography](https://ohcaxulu.github.io/#references-&-bibliography)
+* [References and Bibliography](https://ohcaxulu.github.io/#references-and-bibliography)
   
 
 ---
@@ -446,7 +446,7 @@ _Some tips to take away_
 
 ---
 
-# References & Bibliography
+# References and Bibliography
 
 ### About Legal Side 
 * [Practical Law 101 For Indie Developers: Not Scary Edition by Chris Reid](https://youtu.be/8eAW-7Js7NA)
