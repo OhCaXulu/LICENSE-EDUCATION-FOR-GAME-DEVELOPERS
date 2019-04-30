@@ -47,6 +47,8 @@
 
 * [Available Licenses](https://ohcaxulu.github.io/#available-licenses)
 
+* [Kahoot Link](https://ohcaxulu.github.io/#kahoot-link)
+
 * [References and Bibliography](https://ohcaxulu.github.io/#references-and-bibliography)
   
 
@@ -451,6 +453,10 @@ _Some tips to take away_
 * **Anything doesn’t enforce itself.**
 
 ---
+
+### Kahoot Link
+It's not a very serious kahoot in purpose of making the subject less dense.
+Link [here](https://create.kahoot.it/share/license-education-for-game-developers/487bed24-4ed9-4224-8a84-2e2051a77782)
 
 # References and Bibliography
 
