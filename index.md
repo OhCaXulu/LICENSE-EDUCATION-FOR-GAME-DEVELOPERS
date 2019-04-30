@@ -456,9 +456,9 @@ _Some tips to take away_
 * [License Agreements by WIPO](https://www.wipo.int/sme/en/ip_business/licensing/licensing.htm)
 
 ### About Available Licenses
-* [Engines by Language Video Series](https://youtu.be/TQyAZiX8oC0)
-* [Top 12 free game engines](https://conceptartempire.com/free-game-engines/)
-* [Top 10 Game development tools](https://www.gamefromscratch.com/post/2018/10/05/Top-10-Free-Game-Development-Tools.aspx)
+* [Engines by Language Video Series by GameFromScratch](https://youtu.be/TQyAZiX8oC0)
+* [Top 12 free game engines by Josh Petty](https://conceptartempire.com/free-game-engines/)
+* [Top 10 Game development tools by GameFromScratch](https://www.gamefromscratch.com/post/2018/10/05/Top-10-Free-Game-Development-Tools.aspx)
 
 
 
